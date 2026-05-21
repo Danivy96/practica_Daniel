@@ -1,1 +1,2 @@
 Cambio1: Nuevo botón en la interfaz
+Cambio2: Mejorar estilos del menú
